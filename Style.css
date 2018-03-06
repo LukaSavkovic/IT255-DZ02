@@ -1,0 +1,140 @@
+body{
+	font: 16px Arial, Helvetica, sans-serif;
+	margin:0;
+	padding:0;
+	border: 0;
+	background-color: white;
+}
+
+div {
+    resize: both;
+    /*Ne radi pitaj ga kako da to namestis :)*/
+   
+} 
+
+.LinkD{
+	margin: auto;
+	max-width: 70%;
+
+}
+
+#LinkS{
+background-color: #F5F5F5;
+}
+
+#LinkS ul{
+	list-style: none;
+	margin:0;
+	padding:0;
+	border: 0;
+}
+
+#LinkS li{
+	display:inline-block;
+	padding: 20px;
+}
+
+#LinkS a{
+	text-decoration: none;
+	color: #686868;
+
+}
+
+#LinkS a:hover{
+	color: darkblue;
+}
+
+.TextOnPictureModels{
+
+font-size: 40px;
+position: relative;
+margin-top: -11.9%;
+margin-left: 2%;
+color: black;
+}
+
+.TextOnPictureOffers{	
+font-size: 40px;
+position: relative;
+/*margin-top: -65%; */
+margin-top: -11%;
+margin-left: 2%;
+color: white;
+}
+
+.PictureContacts{
+margin-top: -15px;
+}
+
+.TextOnPictureContacts{	
+font-size: 40px;
+position: relative;
+/*margin-top: -65%; */
+/*margin-top: -50%;
+margin-left: 33%;*/
+margin-left: 2%;
+margin-top: -12%;
+color: white;
+}
+
+footer{
+width: 100%;
+height: 400px;
+background-color: #262626;
+font: 16px Arial, Helvetica, sans-serif;
+color: white;
+padding-top: 20px;
+margin-top: 75px;
+}
+
+#Footer{
+	 line-height: 2;
+}
+
+#Footer a:hover{
+color: white;
+}
+
+.Shortcuts{
+margin-left: 10%;
+list-style: none;
+}
+
+.Shortcuts li a{
+color: darkgray;
+text-decoration: none;
+}
+
+.MoreBmwSites{
+margin-left: 30%;
+margin-top: -12%;
+list-style: none;
+}
+
+.MoreBmwSites li a{
+color: darkgray;
+text-decoration: none;
+}
+
+
+.VisitUsOn{
+margin-left: 53%;
+margin-top: -14%;
+list-style: none;
+}
+
+.VisitUsOn li a {
+color: darkgray;
+text-decoration: none;
+    word-spacing: 30px;
+}
+
+.PictureLogo{
+	margin-left: 70%;
+	margin-top: -800px;
+	margin-bottom: 750px;
+}
+
+#Pictures{
+	margin-bottom: -20px;
+}
