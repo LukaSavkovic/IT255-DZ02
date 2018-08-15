@@ -1,0 +1,99 @@
+body{
+	font: 16px Arial, Helvetica, sans-serif;
+	margin:0;
+	padding:0;
+	border: 0;
+	background-color: white;
+}
+
+div {
+    resize: both;
+    /*Ne radi pitaj ga kako da to namestis :)*/
+   
+} 
+
+.LinkD{
+	margin: auto;
+	max-width: 70%;
+
+}
+
+#LinkS{
+background-color: #F5F5F5;
+}
+
+#LinkS ul{
+	list-style: none;
+	margin:0;
+	padding:0;
+	border: 0;
+}
+
+#LinkS li{
+	display:inline-block;
+	padding: 20px;
+}
+
+#LinkS a{
+	text-decoration: none;
+	color: black;
+
+}
+
+#LinkS a:hover{
+	color: darkblue;
+}
+
+footer{
+	width: 100%;
+	height: 400px;
+	background-color: #262626;
+	font: 16px Arial, Helvetica, sans-serif;
+	color: white;
+	padding-top: 20px;
+	margin-top: 5px;
+}
+
+#Footer{
+	 line-height: 2;
+}
+
+#Footer a:hover{
+	color: white;
+}
+
+.Shortcuts{
+	margin-left: 10%;
+	list-style: none;
+}
+
+.Shortcuts li a{
+	color: darkgray;
+	text-decoration: none;
+}
+
+.MoreBmwSites{
+	margin-left: 30%;
+	margin-top: -10.6%;
+	list-style: none;
+}
+
+.MoreBmwSites li a{
+	color: darkgray;
+	text-decoration: none;
+
+}
+
+
+.VisitUsOn{
+	margin-left: 53%;
+	margin-top: -12.6%;
+	list-style: none;
+}
+
+.VisitUsOn li a {
+	color: darkgray;
+	text-decoration: none;
+	word-spacing: 30px;
+}
+

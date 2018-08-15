@@ -1,0 +1,89 @@
+#BuyS{
+
+	font: 20px Arial, Helvetica, sans-serif;
+
+}
+
+.TextOnPictureOffers2{
+	font: 60px Arial, Helvetica, sans-serif;
+	position: absolute;
+	top:5%;
+	left:5%;
+	color: white;	
+	font-weight: bold;
+	
+}
+
+
+
+.PictureOffers{
+	position: relative;
+
+}
+
+.TextOnPictureOffers{
+	color: white;	
+	position: absolute;	
+	top:17%;
+	left:35%;
+	width: 500px;
+	height: 620px;
+	padding: 35px 40px;
+	box-sizing: border-box;
+	background-color: gray;
+	background: transparent;
+}
+
+h2
+{
+	margin: 0;
+	padding: 0 0 20px;
+	color: white;
+	text-align: center;
+}
+.TextOnPictureOffers p
+{
+	margin: 0;
+	padding: 0;
+	font-weight: bold;
+	color: white;
+}
+.TextOnPictureOffers input
+{
+	width: 100%;
+	margin-bottom: 20px;
+}
+.TextOnPictureOffers input[type="text"]
+{
+	border: none;
+	border-bottom: 1px solid white;
+	background: transparent;
+	outline: none;
+	height: 40px;
+	color: white;
+	font-size: 16px;
+}
+
+.TextOnPictureOffers input[type="submit"]
+{
+	border: none;
+	outline: none;
+	height: 40px;
+	color: black;
+	font-size: 16px;
+	background: white;
+	cursor: pointer;
+	border-radius: 20px;
+}
+.TextOnPictureOffers input[type="submit"]:hover
+{
+	background: darkred;
+	color: white;
+}
+.TextOnPictureOffers a
+{
+	color: white;
+	font-size: 14px;
+	font-weight: bold;
+	text-decoration: none;
+}
